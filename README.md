@@ -1,4 +1,4 @@
-<p align="center"><img src="https://drive.google.com/file/d/1Sh6120-tOib84ZdYA7GwTHCHkmLkqXZK/view?usp=drivesdk"></p>
+<p align="center" style="font-size: x-large">:bucket: :pickup_truck: :sponge:</p>
 
 ## reevar-app-mobile :pickup_truck:
 
