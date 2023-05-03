@@ -1,5 +1,5 @@
-<p align="center" style="font-size: x-large">:bucket: :pickup_truck: :sponge:</p>
+<p align="center"><h1>:bucket: :pickup_truck: :sponge:</h1></p>
 
-## reevar-app-mobile :pickup_truck:
+## reevar-app-mobile
 
 En este proyecto crearé una app para dispositivos moviles la cual nos permite coger cita para limpiar nuestro coche
